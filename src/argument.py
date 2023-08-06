@@ -4,9 +4,9 @@ import argparse
 
 def get_argparser():
   parser = argparse.ArgumentParser(
-    prog='DDPM',
-    description='What the program does',
-    epilog='Text at the bottom of help'
+    prog='DermoSegDiff',
+    description='DermoSegDiff: A Boundary-aware Segmentation Diffusion Model for Skin Lesion Delineation',
+    epilog=''
   )
 
   parser.add_argument('-c', '--config_file', type=str, required=True, help="")
