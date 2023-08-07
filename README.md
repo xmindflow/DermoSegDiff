@@ -63,11 +63,11 @@ Skin lesion segmentation plays a critical role in the early detection and accura
   You can download the learned weights in the following.
    Dataset   | Model          | download link 
   -----------|----------------|----------------
-   ISIC2018  | DermoSegDiff-A | [[Download]()] 
-   PH2       | DermoSegDiff-B | [[Download]()] 
+   ISIC2018  | DermoSegDiff-A | [[Download](https://uniregensburg-my.sharepoint.com/:f:/g/personal/say26747_ads_uni-regensburg_de/EhsfBqr1Z-lCr6KaOkRM3EgBIVTv8ew2rEvMWpFFOPOi1w?e=ifo9jF)] 
+   PH2       | DermoSegDiff-B | [[Download](https://uniregensburg-my.sharepoint.com/:f:/g/personal/say26747_ads_uni-regensburg_de/EoCkyNc5yeRFtD-KTFbF0gcB8lbjMLY6t1D7tMYq7yTkfw?e=tfGHee)] 
   
   ### Training
-  For training stage you need to choose the relevant config file and modify it by setting the required directories and changing variables if it's desired, and from inside the `src` folder run the following command by pathing the prepared config file:
+  For the training stage you need to choose the relevant config file and modify it by setting the required directories and changing variables if it's desired, and from inside the `src` folder run the following command by pathing the prepared config file:
   
   ```python src/training.py -c /path/to/config/file```
 
