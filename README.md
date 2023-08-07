@@ -94,8 +94,9 @@ usage: [-h] -c CONFIG_FILE [-n MODEL_NAME] [-s INPUT_SIZE] [-b BATCH_SIZE] [-l L
   To run with arbitrary weigths you need to change `testing -> model_weigths -> overload` to `true` and write the desired weights path in `testing -> model_weigths -> file_path`.
   
   ### Evaluation
+  
   <p align="center">
-    <img width="800" alt="image" src="https://github.com/mindflow-institue/diffusion-ddpm-seg/assets/6207884/2310a383-faf1-4f09-b864-efdf6d595013">
+    <img width="800" alt="image" src="https://github.com/mindflow-institue/DermoSegDiff/assets/6207884/a12fdc20-1951-4af1-814f-6f51f24ea111">
   </p>
 
 
