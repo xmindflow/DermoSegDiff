@@ -16,10 +16,10 @@ Skin lesion segmentation plays a critical role in the early detection and accura
 @inproceedings{bozorgpour2023dermosegdiff,
   title={DermoSegDiff: A Boundary-Aware Segmentation Diffusion Model for Skin Lesion Delineation},
   author={Bozorgpour, Afshin and Sadegheih, Yousef and Kazerouni, Amirhossein and Azad, Reza and Merhof, Dorit},
-  booktitle={International Workshop on PRedictive Intelligence In MEdicine},
+  booktitle={Predictive Intelligence in Medicine},
   pages={146--158},
   year={2023},
-  organization={Springer}
+  organization={Springer Nature Switzerland}
 }
 ```
 <p align="center">
